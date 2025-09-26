@@ -145,11 +145,6 @@ Feel free to:
 - **Contest Platform**: [Codeforces](https://codeforces.com/)
 - **Documentation**: [C++ Reference](https://en.cppreference.com/)
 
-## 📞 Contact
-
-If you have any questions about the implementations or want to discuss DSA concepts, feel free to reach out!
-
----
 
 **Happy Coding! 🚀**
 

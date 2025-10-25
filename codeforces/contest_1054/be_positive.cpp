@@ -11,6 +11,7 @@ int main(){
     for(int i=0;i<alen;i++){
         cin >> arr[i];
     }
+    
     int count =0;
     for(int i=1;i<alen;i++){
         if (arr[i]==0){

@@ -8,7 +8,7 @@ Implementation and practice of various data structures and algorithms.
 
 ## Structure
 
-- Each topic in separate folders
+- Each topixc in separate folders
 - Solutions with explanations
 - Test cases included
 

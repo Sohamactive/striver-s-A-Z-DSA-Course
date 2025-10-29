@@ -1,4 +1,6 @@
 {
+    "code-runner.runInTerminal": true,
+    "code-runner.showExecutionMessage": false,
     "files.associations": {
         "\"**/*.html\"": "\"html\"",
         "\"**/templates/**/*.html\"": "\"django-html\"",

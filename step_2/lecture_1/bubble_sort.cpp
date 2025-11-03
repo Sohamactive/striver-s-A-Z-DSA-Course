@@ -2,12 +2,7 @@
 #include<bits/stdc++.h>
 
 using namespace std;
-void swap(int &a,int &b){
-    int temp;
-    temp = a;
-    a = b;
-    b =temp;
-}
+
 
 void bubble_sort(int arr[],int n){
     for(int i=0;i<=n-2;i++){

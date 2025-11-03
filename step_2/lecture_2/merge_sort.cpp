@@ -45,5 +45,4 @@ void merge(vector<int> &arr,int low,int mid , int high){
         for(auto i : a){
             cout << i << ' ';
         }
-
     }
